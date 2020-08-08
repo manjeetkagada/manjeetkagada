@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img align="left" alt="manjeet's Github Stats" src="https://github-readme-stats.manjeetkagada.vercel.app/api?username=manjeetkagada&show_icons=true&hide_border=true" />
+[![manjeets's github stats](https://github-readme-stats.vercel.app/api?username=manjeetkagada)](https://github.com/manjeetkagada/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UC8fzHmuoeuxRMDmJ1_RQckg
 [instagram]: https://www.instagram.com/_codegears/
