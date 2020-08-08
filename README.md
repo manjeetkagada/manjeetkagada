@@ -36,6 +36,8 @@
 <br />
 <br />
 
+[![manjeet's github stats](https://github-readme-stats.vercel.app/api?username=manjeetkagada)](https://github.com/anuraghazra/github-readme-stats)
+
 [youtube]: https://www.youtube.com/channel/UC8fzHmuoeuxRMDmJ1_RQckg
 [instagram]: https://www.instagram.com/_codegears/
 [linkedin]: https://www.linkedin.com/in/manjeet-kagada-40a275181/
