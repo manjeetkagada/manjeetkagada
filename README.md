@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [E-Commerce-Website]
 - 🌱 I’m currently learning Web Development 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to projects
+- 🥅 2023 Goals: Contribute more to projects
 - ⚡ Insta Page: I am founder of Code Gear [instagram]
 
 ### Connect with me:
