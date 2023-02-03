@@ -1,6 +1,6 @@
 ### Hi there, I'm Manjeet - aka [manjeetkagada][personal] 👋
 
-## I'm a Student, Developer, and Content Creator!
+## I'm a Developer, and Content Creator!
 
 - 🔭 I’m currently working on a [E-Commerce-Website]
 - 🌱 I’m currently learning Web Development 🤣
