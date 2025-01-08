@@ -1,11 +1,11 @@
 ### Hi there, I'm Manjeet - aka [manjeetkagada][personal] 👋
 
-## I'm a Developer, and Content Creator!
+## I'm a Frontend  Developer,
 
-- 🔭 I’m currently working on a [E-Commerce-Website]
-- 🌱 I’m currently learning Web Development 🤣
+- 🔭 I’m currently working in Jio Plaforms Limited
+- 🌱 Working on React konva cool stuff 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to projects
+- 🥅 2025 Goals: Contribute more to projects
 - ⚡ Insta Page: I am founder of Code Gear [instagram]
 
 ### Connect with me:
